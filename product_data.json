@@ -1,0 +1,79 @@
+[
+    {
+        "id": 0,
+        "title": "Xiaomi Wireless Earbuds",
+        "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
+        "price": "#25,000",
+        "inStock": true
+    },
+    {
+        "id": 1,
+        "title": "Your Fav",
+        "imgURL": "https://m.media-amazon.com/images/I/51lK00mvFaL._AC._SR180,230.jpg",
+        "price": "#57,350",
+        "inStock": true
+    },
+    {
+        "id": 2,
+        "title": "Pheelz",
+        "imgURL": "https://m.media-amazon.com/images/I/71zLCzJcXaL._AC._SR360,460.jpg",
+        "price": "#100,000",
+        "inStock": false
+    },
+    {
+        "id": 3,
+        "title": "LG NEW",
+        "imgURL": "https://m.media-amazon.com/images/I/71gAldY8eGL._AC._SR360,460.jpg",
+        "price": "#47,000",
+        "inStock": true
+    },
+    {
+        "id": 4,
+        "title": "Samsung Galaxy A20",
+        "imgURL": "https://m.media-amazon.com/images/I/71mUIp9oCXL._AC._SR360,460.jpg",
+        "price": "#97,000",
+        "inStock": true
+    },
+    {
+        "id": 5,
+        "title": "Apple AirPods Series 2",
+        "imgURL": "https://m.media-amazon.com/images/I/51XanmiXw0L._AC._SR360,460.jpg",
+        "price": "#67,500",
+        "inStock": true
+    },
+    {
+        "id": 6,
+        "title": "Lenovo Tab M10 Plus",
+        "imgURL": "https://m.media-amazon.com/images/I/81JR-A35D0L._AC._SR360,460.jpg",
+        "price": "#120,000",
+        "inStock": false
+    },
+    {
+        "id": 7,
+        "title": "Infinix Note 10",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/41vVdTukkgL._AC_SX522_.jpg",
+        "price": "#134,000",
+        "inStock": false
+    },
+    {
+        "id": 8,
+        "title": "Xiaomi Mijia Smart Home 360",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31G-rIrW9zL._AC_UL320_SR226,320_.jpg",
+        "price": "#269,120",
+        "inStock": true
+    },
+    {
+        "id": 9,
+        "title": "Tecno Spark 4",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/31sNKUGwNUL._AC_.jpg",
+        "price": "#122,000",
+        "inStock": true
+    },
+    {
+        "id": 10,
+        "title": "Oraimo Smart watch",
+        "imgURL": "https://images-na.ssl-images-amazon.com/images/I/51kfZ4W9YSL._AC_SX522_.jpg",
+        "price": "#12,000",
+        "inStock": true
+    }
+]
